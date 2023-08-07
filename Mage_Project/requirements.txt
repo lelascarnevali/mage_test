@@ -1,0 +1,7 @@
+pandas
+geocoder
+requests
+pyarrow
+fastparquet
+pyspark
+mage-ai
